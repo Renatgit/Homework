@@ -1,0 +1,51 @@
+.one {
+    width: 100%;
+    height: 865px;
+    background-color: yellow;
+    position: absolute;
+}
+.two {
+    width: 15%;
+    height: 865px;
+    background-color: aqua;
+    position: absolute;
+}
+.three {
+    width: 15%;
+    height: 865px;
+    background-color: pink;
+    position: absolute;
+    left: 200px;
+}
+.four {
+    width: 70%;
+    height: 100px;
+    background-color: orange;
+    position: absolute;
+    left: 392px;
+}
+.five {
+    width: 70%;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    left: 392px;
+    top: 773px;
+}
+.six {
+    width: 30%;
+    height: 100px;
+    background-color: violet;
+    position: absolute;
+    left: 500px;
+    top: 450px;
+}
+.seven {
+    width: 30%;
+    height: 100px;
+    background-color: grey;
+    position: absolute;
+    left: 600px;
+    top: 520px;
+}
+

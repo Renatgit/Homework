@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(to bottom right, rgb(176, 240, 252), rgb(113, 225, 253))
+    
+}
+table {
+    width: 90%;
+    height: 100vh;
+    margin-left: 80px;
+}
+.time {
+    background-color: rgb(250, 148, 148);
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700; 
+    color: white;
+}
+.lesson {
+    background-color: rgb(250, 148, 148);
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+}
+.day {
+    background-color: rgb(250, 148, 148);
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    color: white;  
+}
+td {
+    transition: 0.3s ease;
+}
+td:hover {
+    width: 340px;
+    transition: 0.3s ease;
+}
+

@@ -1,0 +1,626 @@
+@media(max-width:  1920px) {
+    .firstScreen {
+        width: 1920px;
+    }
+    .firstScreenMenu {
+        left: 1050px;
+    }
+    .logo {
+        left: 300px;
+    }
+    .firstScreenTextHeading {
+        left: 1100px;
+    }
+    .design {
+        left: 1100px;
+    }
+    a.buttonWriteMe {
+        left: 1100px;
+    }
+    .laptop {
+        left: 400px;
+    }
+    .aboutMe {
+        width: 1920px;
+    }
+    .aboutMeText {
+        left: 700px;
+    }
+    .numbers {
+        width: 1920px;
+    }
+    .numbersItem {
+        left: 300px;
+    }
+    .numbersItemSecond {
+        left: 625px;
+    }
+    .numbersItemThird {
+        left: 925px;
+    }
+    .numbersItemFourth {
+        left: 1225px;
+    }
+    .numbersItemFifth {
+        left: 1525px;
+    }
+    .skillBlock {
+        width: 1920px;
+    }
+    .skills {
+        left: 400px;
+    }
+    .myPhoto {
+        left: 600px;
+    }
+    .video {
+        width: 1920px;
+    }
+    .videoTitle {
+        left: 700px;
+    }
+    .videoOn {
+        left: 500px;
+    }
+    .vector {
+        left: 920px;
+    }
+    .firstProjectPhoto {
+        position: absolute;
+        width: 480px;
+        height: 480px;
+        left: 0px;
+        top: 0px;    
+    }
+    .secondProjectPhoto {
+        position: absolute;
+        width: 480px;
+        height: 480px;
+        left: 480px;
+        top: 0px;    
+    }
+    .thirdProjectPhoto {
+        position: absolute;
+        width: 480px;
+        height: 480px;
+        left: 960px;
+        top: 0px;    
+    }
+    .fourthProjectPhoto {
+        position: absolute;
+        width: 480px;
+        height: 480px;
+        left: 1440px;
+        top: 0px;    
+    }
+    .fifthProjectPhoto {
+        position: absolute;
+        width: 480px;
+        height: 480px;
+        left: 0px;
+        top: 480px;    
+    }
+    .sixthProjectPhoto {
+        position: absolute;
+        width: 480px;
+        height: 480px;
+        left: 480px;
+        top: 480px;    
+    }
+    .seventhProjectPhoto {
+        position: absolute;
+        width: 480px;
+        height: 480px;
+        left: 960px;
+        top: 480px;    
+    }
+    .eighthProjectPhoto {
+        position: absolute;
+        width: 480px;
+        height: 480px;
+        left: 1440px;
+        top: 480px;    
+    }
+    .microsoft {
+        left: 150px;
+    }
+    .facebook {
+        left: 500px;
+    }
+    .instagram {
+        left: 850px;
+    }
+    .telegram {
+        left: 1200px;
+    }
+    .form {
+        width: 1920px;
+    }
+    .formTitle {
+        left: 700px;
+    }
+    .name {
+        left: 700px;
+    }
+    .e-mail {
+        left: 975px;
+    }
+    .message {
+        width: 530px;
+        left: 700px;
+    }
+    a.buttonSend {
+        left: 890px;
+    }
+    .footer {
+        width: 1920px;
+    }
+    .myInstagram {
+        left: 1500px;
+    }
+    .myFacebook {
+        left: 1580px;
+    }
+    .myTelegram {
+        left: 1660px;
+    }
+    .myName {
+        left: 300px;
+    }
+    .end {
+        left: 300px;
+    }
+
+
+@media(max-width:  1440px) {
+    .firstScreen {
+        width: 1440px;
+    }
+    .firstScreenMenu {
+        left: 700px;
+    }
+    .logo {
+        left: 200px;
+    }
+    .firstScreenTextHeading {
+        left: 800px;
+    }
+    .design {
+        left: 800px;
+    }
+    a.buttonWriteMe {
+        left: 800px;
+    }
+    .laptop {
+        left: 200px;
+    }
+    .aboutMe {
+        width: 1440px;
+    }
+    .aboutMeText {
+        left: 450px;
+    }
+    .numbers {
+        width: 1440px;
+    }
+    .numbersItem {
+        left: 225px;
+    }
+    .numbersItemSecond {
+        left: 450px;
+    }
+    .numbersItemThird {
+        left: 675px;
+    }
+    .numbersItemFourth {
+        left: 900px;
+    }
+    .numbersItemFifth {
+        left: 1125px;
+    }
+    .skillBlock {
+        width: 1440px;
+    }
+    .skills {
+        left: 200px;
+    }
+    .myPhoto {
+        left: 500px;
+    }
+    .video {
+        width: 1440px;
+    }
+    .videoTitle {
+        left: 450px;
+    }
+    .videoOn {
+        left: 250px;
+    }
+    .vector {
+        left: 682.5px;
+    }
+    .firstProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 0px;
+        top: 0px;    
+    }
+    .secondProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 360px;
+        top: 0px;    
+    }
+    .thirdProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 720px;
+        top: 0px;    
+    }
+    .fourthProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 1080px;
+        top: 0px;    
+    }
+    .fifthProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 0px;
+        top: 360px;    
+    }
+    .sixthProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 360px;
+        top: 360px;    
+    }
+    .seventhProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 720px;
+        top: 360px;    
+    }
+    .eighthProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 1080px;
+        top: 360px;    
+    }
+    .microsoft {
+        left: 0px;
+        top: -200px;
+    }
+    .facebook {
+        left: 300px;
+        top: -175px;
+    }
+    .instagram {
+        left: 600px;
+        top: -180px;
+    }
+    .telegram {
+        left: 900px;
+        top: -180px;
+    }
+    .form {
+        width: 1440px;
+        top: 4025px;
+    }
+    .formTitle {
+        left: 450px;
+    }
+    .name {
+        left: 450px;
+    }
+    .e-mail {
+        left: 730px;
+    }
+    .message {
+        width: 530px;
+        left: 450px;
+    }
+    a.buttonSend {
+        left: 640px;
+    }
+    .footer {
+        width: 1440px;
+        top: 4786px;
+    }
+    .myInstagram {
+        left: 1000px;
+    }
+    .myFacebook {
+        left: 1080px;
+    }
+    .myTelegram {
+        left: 1160px;
+    }
+    .myName {
+        left: 150px;
+    }
+    .end {
+        left: 150px;
+    }
+
+
+@media(max-width:  1024px) {
+    .firstScreen {
+        width: 1024px;
+        height: 500px;
+    }
+    .firstScreenMenu {
+        left: 450px;
+    }
+    .logo {
+        height: 25px;
+        width: 55px;
+        left: 100px;
+    }
+    .menuFirst {
+        position: absolute;
+        color: #34547A;
+        text-decoration: none;
+        top: -50px;
+        left: -35px;
+        font-size: 12px;
+        line-height: 26px;
+        letter-spacing: 0.1em;
+    }
+    .menuSecond {
+        position: absolute;
+        color: black;
+        text-decoration: none;
+        left: 90px;
+        top: -14px;
+        font-size: 12px;
+        line-height: 26px;
+        letter-spacing: 0.1em;
+    }
+    .menuThird {
+        position: absolute;
+        color: black;
+        text-decoration: none;
+        left: 200px;
+        top: -14px;
+        font-size: 12px;
+        line-height: 26px;
+        letter-spacing: 0.1em;    
+    }
+    .menuFourth {
+        position: absolute;
+        color: black;
+        text-decoration: none;
+        left: 300px;
+        top: -14px;
+        font-size: 12px;
+        line-height: 26px;
+        letter-spacing: 0.1em;
+    }
+    .menuFifth {
+        position: absolute;
+        color: black;
+        text-decoration: none;
+        left: 400px;
+        top: -14px;
+        font-size: 12px;
+        line-height: 26px;
+        letter-spacing: 0.1em;
+    }
+    .firstScreenTextHeading {
+        position: absolute;
+        width: 541px;
+        height: 45px;
+        left: 500px;
+        top: 100px;
+        font-weight: 500;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        line-height: 79px;
+        color: #000000;
+    }
+    .design { 
+        position: absolute;
+        width: 540px;
+        height: 67px;
+        left: 500px;
+        top: 200px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 26px;
+        color: #727272;
+    }
+    a.buttonWriteMe {
+        position: absolute;
+        color: #fff; 
+        text-decoration: none; 
+        user-select: none; 
+        background:  #34547A;    
+        padding: 10px 10px; 
+        outline: none; 
+        width: 100px;
+        height: 12px;
+        top: 330px;
+        left: 500px;
+        font-size: 10px;
+        border-radius: 0px;
+    } 
+    a.buttonWriteMe:hover { 
+        background: #3f6594; 
+        transition: 0.3s;
+    }
+    a.buttonWriteMe:active {
+        background: #2b4666; 
+    }
+    .laptop {
+        left: 170px;
+        top: 200px;
+        width: 229px;
+        height: 150px;
+    }
+    .aboutMe {
+        width: 1024px;
+    }
+    .aboutMeText {
+        left: 450px;
+    }
+    .numbers {
+        width: 1024px;
+    }
+    .numbersItem {
+        left: 225px;
+    }
+    .numbersItemSecond {
+        left: 450px;
+    }
+    .numbersItemThird {
+        left: 675px;
+    }
+    .numbersItemFourth {
+        left: 900px;
+    }
+    .numbersItemFifth {
+        left: 1125px;
+    }
+    .skillBlock {
+        width: 1024px;
+    }
+    .skills {
+        left: 200px;
+    }
+    .myPhoto {
+        left: 500px;
+    }
+    .video {
+        width: 1024px;
+    }
+    .videoTitle {
+        left: 450px;
+    }
+    .videoOn {
+        left: 250px;
+    }
+    .vector {
+        left: 682.5px;
+    }
+    .firstProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 0px;
+        top: 0px;    
+    }
+    .secondProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 360px;
+        top: 0px;    
+    }
+    .thirdProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 720px;
+        top: 0px;    
+    }
+    .fourthProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 1080px;
+        top: 0px;    
+    }
+    .fifthProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 0px;
+        top: 360px;    
+    }
+    .sixthProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 360px;
+        top: 360px;    
+    }
+    .seventhProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 720px;
+        top: 360px;    
+    }
+    .eighthProjectPhoto {
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 1080px;
+        top: 360px;    
+    }
+    .microsoft {
+        left: 0px;
+        top: -200px;
+    }
+    .facebook {
+        left: 300px;
+        top: -175px;
+    }
+    .instagram {
+        left: 600px;
+        top: -180px;
+    }
+    .telegram {
+        left: 900px;
+        top: -180px;
+    }
+    .form {
+        width: 1024px;
+        top: 4025px;
+    }
+    .formTitle {
+        left: 450px;
+    }
+    .name {
+        left: 450px;
+    }
+    .e-mail {
+        left: 730px;
+    }
+    .message {
+        width: 530px;
+        left: 450px;
+    }
+    a.buttonSend {
+        left: 640px;
+    }
+    .footer {
+        width: 1024px;
+        top: 4786px;
+    }
+    .myInstagram {
+        left: 1000px;
+    }
+    .myFacebook {
+        left: 1080px;
+    }
+    .myTelegram {
+        left: 1160px;
+    }
+    .myName {
+        left: 150px;
+    }
+    .end {
+        left: 150px;
+    }
